@@ -1,5 +1,3 @@
-Tentu, berikut adalah susunan ulang dengan menggunakan tabel agar lebih rapi dan mudah dibaca di dalam situs web:
-
 | **Logika Pemrograman: Ilmu Berpikir** |
 |--------------------------------------|
 | - Logika Formal                      |
@@ -25,5 +23,3 @@ Tentu, berikut adalah susunan ulang dengan menggunakan tabel agar lebih rapi dan
 |    - Pelajari solusi dari orang lain.  |
 | 9. Terapkan Apa yang Telah Dipelajari dalam Sebuah Proyek. |
 | 10. Sabar dan Disiplin + Doa.          |
-
-Dengan tabel ini, informasi dapat disusun dengan lebih terstruktur dan memudahkan pembacaan, terutama ketika ditampilkan dalam bentuk situs web.
